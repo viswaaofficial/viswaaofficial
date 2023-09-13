@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Viswaa Ramasubramanian</h1>
 <h3 align="center">A Keen Coding Hobbyist from India</h3>
-<img align="center" alt="Coding" width="400" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viswaaofficial&label=Profile%20views&color=0e75b6&style=flat" alt="viswaaofficial" /> </p>
 
 <p align="left"> <a href="https://twitter.com/viswaa32080532" target="blank"><img src="https://img.shields.io/twitter/follow/viswaa32080532?logo=twitter&style=for-the-badge" alt="viswaa32080532" /></a> </p>
@@ -15,13 +15,13 @@
 
 - 👨‍💻 All of my important projects are available at [https://viswaa-ramasubramanian.jimdosite.com/](https://viswaa-ramasubramanian.jimdosite.com/)
 
-- 📝 To know about my certifications and education background visit [https://www.linkedin.com/in/viswaa-ramasubramanian-808887212/](https://www.linkedin.com/in/viswaa-ramasubramanian-808887212/)
-
 - 💬 Ask me about **Python Programming , Data Science Basics , SQL**
 
 - 📫 How to reach me **viswaaofficial@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Q4Xcg3LEV2vN4s9RQDC6PH4E7D-bKpGz/view?usp=sharing](https://drive.google.com/file/d/1Q4Xcg3LEV2vN4s9RQDC6PH4E7D-bKpGz/view?usp=sharing)
+
+- 📝 To know about my certifications and education background visit [https://www.linkedin.com/in/viswaa-ramasubramanian-808887212/](https://www.linkedin.com/in/viswaa-ramasubramanian-808887212/)
 
 - ⚡ Fun fact **I have a good sense of humor and enjoy making jokes with others.**
 
