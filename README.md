@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Viswaa Ramasubramanian</h1>
 <h3 align="center">A Keen Coding Hobbyist from India</h3>
-<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viswaaofficial&label=Profile%20views&color=0e75b6&style=flat" alt="viswaaofficial" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=viswaaofficial" alt="viswaaofficial" /></a> </p>
@@ -26,7 +25,7 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Q4Xcg3LEV2vN4s9RQDC6PH4E7D-bKpGz/view?usp=sharing](https://drive.google.com/file/d/1Q4Xcg3LEV2vN4s9RQDC6PH4E7D-bKpGz/view?usp=sharing)
 
 - ⚡ Fun fact **I have a good sense of humor and enjoy making jokes with others.**
-
+<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/viswaa32080532" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="viswaa32080532" height="30" width="40" /></a>
