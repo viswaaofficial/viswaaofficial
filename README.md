@@ -13,11 +13,11 @@
 
 - 🤝 I’ve also doing a project on **Sentiment Analysis**
 
-- 👨‍💻 All of my important projects are available at [https://viswaa-ramasubramanian.jimdosite.com/](https://viswaa-ramasubramanian.jimdosite.com/)
-
 - 💬 Ask me about **Python Programming , Data Science Basics , SQL**
 
 - 📫 How to reach me **viswaaofficial@gmail.com**
+
+- - 👨‍💻 All of my important projects are available at [https://viswaa-ramasubramanian.jimdosite.com/](https://viswaa-ramasubramanian.jimdosite.com/)
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Q4Xcg3LEV2vN4s9RQDC6PH4E7D-bKpGz/view?usp=sharing](https://drive.google.com/file/d/1Q4Xcg3LEV2vN4s9RQDC6PH4E7D-bKpGz/view?usp=sharing)
 
