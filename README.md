@@ -5,6 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/viswaa32080532" target="blank"><img src="https://img.shields.io/twitter/follow/viswaa32080532?logo=twitter&style=for-the-badge" alt="viswaa32080532" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
+
 - 🔭 I’m currently working on <b>Bluetooth Navigator</b>
 
 - 🌱 I’m currently learning **Data Science , R Programming , Prolog for AI**
