@@ -8,7 +8,9 @@
 
 - 🔭 I’m currently working on <b>Bluetooth Navigator</b>
 
-- 🌱 I’m currently learning **Data Science , R Programming , Prolog for AI**
+- 🌱 I’m currently learning **Data Science , R Programming , Prolog for AI , Machine Learning**
+
+- 🖥  Actively advancing expertise in Embedded Systems through hands-on experience with microcontrollers,<br/> including **Arduino UNO , Tiva-C Series, Raspberry Pi Pico, ESP32, and Sony Spresense.**
 
 - 👯 I’ve successfully complete project on **Speech to Speech Translator**
 
