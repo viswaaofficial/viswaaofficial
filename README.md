@@ -6,15 +6,15 @@
 <p align="left"> <a href="https://twitter.com/viswaa32080532" target="blank"><img src="https://img.shields.io/twitter/follow/viswaa32080532?logo=twitter&style=for-the-badge" alt="viswaa32080532" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
-- 🔭 I’m currently working on <b>Bluetooth Navigator</b>
+- 🔭 I’m currently working on <b>Bluetooth Navigation System</b>
 
 - 🌱 I’m currently learning **Data Science , R Programming , Prolog for AI , Machine Learning**
 
-- 🖥  Actively advancing expertise in Embedded Systems through hands-on experience with microcontrollers, including **Arduino UNO , Tiva-C Series, Raspberry Pi Pico, ESP32, and Sony Spresense.**
+- 🖥  Actively advancing expertise in Embedded Systems through hands-on experience with microcontrollers, including **Arduino UNO , Tiva-C Series, Raspberry Pi Pico, ESP32, and Sony Spresense**
 
-- 👯 I’ve successfully complete project on **Speech to Speech Translator**
+- 👯 I’ve successfully completed project on **Speech to Speech Translator**
 
-- 🤝 I’ve also doing a project on **Sentiment Analysis**
+- 🤝 I’m also doing a project on **Sentiment Analysis**
 
 - 💬 Ask me about **Python Programming , Data Science Basics , SQL**
 
@@ -22,7 +22,7 @@
 
 - 👨‍💻 All of my important projects are available at [https://viswaa-ramasubramanian.jimdosite.com/](https://viswaa-ramasubramanian.jimdosite.com/)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Q4Xcg3LEV2vN4s9RQDC6PH4E7D-bKpGz/view?usp=sharing](https://drive.google.com/file/d/1Q4Xcg3LEV2vN4s9RQDC6PH4E7D-bKpGz/view?usp=sharing)
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1Q4Xcg3LEV2vN4s9RQDC6PH4E7D-bKpGz/view?usp=sharing](https://drive.google.com/file/d/1cXOHiDlXBVaZLJBbRfK5H21MPq1fdI3Z/view?usp=sharing)]
 
 - 📝 To know about my certifications and education background visit [https://www.linkedin.com/in/viswaa-ramasubramanian-808887212/](https://www.linkedin.com/in/viswaa-ramasubramanian-808887212/)
 
