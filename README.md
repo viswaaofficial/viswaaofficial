@@ -8,13 +8,13 @@
 
 - 🔭 I’m currently working on <b>Bluetooth Navigation System</b>
 
-- 🌱 I’m currently learning **Data Science , R Programming , Prolog for AI , Machine Learning**
+- 🌱 I’m currently learning **Data Science , R Programming , Web Sockets and MQTT , Machine Learning**
 
 - 🖥  Actively advancing expertise in Embedded Systems through hands-on experience with microcontrollers, including **Arduino UNO , Tiva-C Series, Raspberry Pi Pico, ESP32, and Sony Spresense**
 
 - 👯 I’ve successfully completed project on **Speech to Speech Translator**
 
-- 🤝 I’m also doing a project on **Sentiment Analysis**
+- 🤝 I’m also doing a project under **SONY SSUP**
 
 - 💬 Ask me about **Python Programming , Data Science Basics , SQL**
 
